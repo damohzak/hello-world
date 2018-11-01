@@ -1,2 +1,2 @@
 # hello-world
-GitHub Hello world example
+GitHub Hello World example
